@@ -1,4 +1,4 @@
-<img src="https://platform.avideo.com/website/assets/151/images/avideo_platform.png"/>
+Documentation and Codebase used for developing and depolying VOD applications for Divine Media™ Content Delivery Platforms
 
 ## Audio Video Platform
 AVideo is a term that means absolutely nothing, or anything video. Since it doesn't mean anything the brand simply is identifiable with audio video. AVideo Platform is an Audio and Video Platform or simply "A Video Platform".
@@ -80,16 +80,6 @@ PROFITABLE STRATEGIES - We provide companies with new business models that evolv
 
 # Notice:
 ### We highly recommend you keep your instance of AVideo Platform updated to the latest release. If you have updated your instance to version 8.0, your old plugins will not work, just download them again and you should be fine.
-
-# First thing...
-I would humbly like to thank God for giving me the necessary knowledge, motivation, resources and idea to be able to execute this project. Without God's permission this would never be possible.
-
-**For of Him, and through Him, and to Him, are all things: to whom be glory for ever. Amen.**
-`Apostle Paul in Romans 11:36`
-
-## This Software must be used for Good, never Evil. It is expressly forbidden to use AVideo Platform Open-Source to build porn sites, violence, racism, terrorism, or anything else that affects human integrity or denigrates the image of anyone.
-
-## Now you can read the rest...
 
 ## Important Information
 
