@@ -1,4 +1,4 @@
-* This is documentation and codebase used for developing and depolying VOD applications for Divine Media™ Content Delivery Platforms
+# Documentation and Codebase used to Developing and Depolying VOD applications for Divine Media™ Content Delivery Platforms
 
 ## Audio Video Platform
 AVideo is a term that means absolutely nothing, or anything video. Since it doesn't mean anything the brand simply is identifiable with audio video. AVideo Platform is an Audio and Video Platform or simply "A Video Platform".
